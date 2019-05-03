@@ -1,1 +1,2 @@
-s as  asdasdasd
+$sdsds as  asdasdasd
+printf("this is c \n");
