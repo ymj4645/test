@@ -1,2 +1,2 @@
 printf("this is c \n");
-printf("this is c \n");
+printf(" is c \n");
